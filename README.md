@@ -16,8 +16,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-creator&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=priyanshu_code)](https://gtce.itsvg.in)
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=priyanshu_code&theme=dracula&response=true&border=true&time=true&icon=moon"/></a>
+<!-- [![](https://gtce.itsvg.in/api?username=priyanshu_code)](https://gtce.itsvg.in) -->
+<a href="https://github.com/priyanshu-creator"><img src="https://gtce.itsvg.in/api?username=priyanshu_code&theme=dracula&response=true&border=true&time=true&icon=moon"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
