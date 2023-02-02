@@ -18,13 +18,11 @@
 
 ## 🐦 Latest Tweet
 <!-- [![](https://gtce.itsvg.in/api?username=priyanshu_code)](https://gtce.itsvg.in) -->
-<a href="https://github.com/priyanshu-creator"><img src="https://gtce.itsvg.in/api?username=priyanshu_code&theme=dracula&response=true&border=true&time=true&icon=moon"/></a>
+<a href="https://github.com/priyanshu-creator"><img src="https://gtce.itsvg.in/api?username=priyanshu_sayz&theme=dracula&response=true&border=true&time=true&icon=moon"/></a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Priyanshu-creator&icon=8&color=1)](https://visitcount.itsvg.in)
