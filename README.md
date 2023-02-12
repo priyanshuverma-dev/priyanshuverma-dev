@@ -2,7 +2,7 @@
 <h3 align="center">A person who is curious new technology, new frameworks and more..</h3>
 
 # 💫 About Me:
-🔭 I’m 15 years old tech enthusiast having some knowledge.<br>👯 I’m looking to collaborate on new techs.<br>🤝 I’m looking for help with someone.<br>🌱 I’m currently learning Java, Blockchain<br>👨‍💻 All of my projects are available at https://somveers.me<br>📝 I regularly post on https://www.instagram.com/priyanshu.code/<br>📫 How to reach me devs@somveers.me<br>⚡ Fun fact I think it is too early to learn Programming. 
+🔭 I’m 15 years old tech enthusiast having some knowledge.<br>👯 I’m looking to collaborate on new techs.<br>🌱 I’m currently learning Java, Blockchain<br>👨‍💻 All of my projects are available at https://somveers.me<br>📝 I regularly post on https://www.instagram.com/priyanshu.code/<br>📫 How to reach me devs@somveers.me<br>⚡ Fun fact I think it is too early to learn Programming. 
 
 
 ## 🌐 Socials:
