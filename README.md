@@ -16,16 +16,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devpriyanshuu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devpriyanshuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-<!-- [![](https://gtce.itsvg.in/api?username=priyanshu_code)](https://gtce.itsvg.in) -->
-<a href="https://github.com/devpriyanshuu"><img src="https://gtce.itsvg.in/api?username=priyanshu_sayz&theme=dracula&response=true&border=true&time=true&icon=moon"/></a>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devpriyanshuu&icon=8&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=devpriyanshuu&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/priyanshucode) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/priyanshu.code) 
