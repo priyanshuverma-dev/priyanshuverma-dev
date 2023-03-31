@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/devpriyanshuu/devpriyanshuu/blob/main/snake_dark.svg" align="center" style="width: 100%" />
+<img src="https://devpriyanshuu.github.io/devpriyanshuu/snake_light.svg" align="center" style="width: 100%" />
 </div>  
   
 
