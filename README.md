@@ -113,4 +113,4 @@
 <img src="https://komarev.com/ghpvc/?username=devpriyanshuu&&style=flat-rounded" align="center" />
 </div>  
 <br/>  
-<a href="https://www.buymeacoffee.com/priyanshucode"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=priyanshucode&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a target="_blank" href="https://www.buymeacoffee.com/priyanshucode"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=priyanshucode&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
