@@ -85,33 +85,35 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=devpriyanshuu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=devpriyanshuu&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sdc3sqrco73uphuc2ybja7kibu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
+
+<div align="start"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sdc3sqrco73uphuc2ybja7kibu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
 ----
-![](https://github-readme-streak-stats.herokuapp.com/?user=devpriyanshuu&theme=dark&hide_border=false)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=devpriyanshuu&theme=dark&hide_border=false)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devpriyanshuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-----
+---- -->
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="start">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" />
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) -->
+</div><br/>
 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=devpriyanshuu&&style=flat-square" align="center" />
+<div align="start">
+<img src="https://komarev.com/ghpvc/?username=devpriyanshuu&&style=flat-rounded" align="center" />
 </div>  
 <br/>  
 
-<div align="center"><a href="https://www.buymeacoffee.com/priyanshucode" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+<div align="start"><a href="https://www.buymeacoffee.com/priyanshucode" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-rounded&logo=buymeacoffee" 
 align="center"/></a></div>
 <br />
