@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://devpriyanshuu.github.io/devpriyanshuu/snake_light.svg" align="center" style="width: 100%" />
+<img src="https://devpriyanshuu.github.io/devpriyanshuu/snake_light.svg#gh-light-mode-only" align="center" style="width: 100%" />
+<img src="https://devpriyanshuu.github.io/devpriyanshuu/snake_dark.svg#gh-dark-mode-only" align="center" style="width: 100%" />
 </div>  
   
 
