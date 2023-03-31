@@ -1,8 +1,7 @@
-<div align="center">
-<img src="https://devpriyanshuu.github.io/devpriyanshuu/snake_light.svg#gh-light-mode-only" align="center" style="width: 100%" />
-<img src="https://devpriyanshuu.github.io/devpriyanshuu/snake_dark.svg#gh-dark-mode-only" align="center" style="width: 100%" />
-</div>  
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://devpriyanshuu.github.io/devpriyanshuu/snake_dark.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://devpriyanshuu.github.io/devpriyanshuu/snake_light.svg">
+</picture>
 
 ### <div align="start">I'm Priyanshu, a full-time student free-time developer 👨‍💻 learning since 2021 🚀</div>  
   
