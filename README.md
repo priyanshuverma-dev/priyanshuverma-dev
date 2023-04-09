@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning JAVA.  
   
 
-- ❓ Ask me about anything related to the MERN stack and related technologies  
+- ❓ Ask me about anything related to the MEFN stack and related technologies  
   
 
 - ⚡ Fun fact: I am 15.  
