@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning JAVA.  
   
-
 - ❓ Ask me about anything related to the MEFN stack and related technologies  
   
-
-- ⚡ Fun fact: I am 15.  
+- ⚡ Fun fact: I am 16.  
   
 
 <br/>  
