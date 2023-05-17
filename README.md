@@ -1,4 +1,4 @@
-### <div align="start">I'm Antriksh, a full-time student free-time developer 👨‍💻 learning since 2021 🚀</div>  
+### <div align="start">I'm Antriksh, a full-time student free-time developer 👨‍💻 🚀</div>  
   
 
 - 🌱 I’m currently learning JAVA.  
