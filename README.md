@@ -1,11 +1,11 @@
 ### <div align="start">I'm Antriksh, a full-time student free-time developer 👨‍💻 🚀</div>  
   
 
-- 🌱 I’m currently learning JAVA.  
+- 🌱 Be my friend
   
-- ❓ Ask me about anything related to the MEFN stack and related technologies  
+- ❓ contact me 
   
-- ⚡ Fun fact: I am 16.  
+- ⚡ code together
   
 
 <br/>  
