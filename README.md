@@ -26,11 +26,11 @@
 
 
 ## Github Stats  
-<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=antrikshverma&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
+<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=codebyps&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
-<div align="start"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sdc3sqrco73uphuc2ybja7kibu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="start"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sdc3sqrco73uphuc2ybja7kibu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 <br/>  
 
@@ -47,6 +47,6 @@
 </div><br/>
 
 <div align="start">
-<img src="https://komarev.com/ghpvc/?username=antrikshverma&&style=flat-rounded" align="center" />
+<img src="https://komarev.com/ghpvc/?username=codebyps&&style=flat-rounded" align="center" />
 </div>  
 <br/>  
