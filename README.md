@@ -1,4 +1,4 @@
-### <div align="start">I'm Antriksh, a full-time student free-time developer 👨‍💻 🚀</div>  
+### <div align="start">I'm Priyanshu, a full-time student free-time developer 👨‍💻 🚀</div>  
   
 
 - 🌱 Be my friend
