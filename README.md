@@ -1,6 +1,9 @@
 ### <div align="start">I'm Priyanshu, a full-time student free-time developer 👨‍💻 🚀</div>  
 
 <br/>  
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/codebyps/codebyps/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+<br/>
 
 ## Connect with me  
 <div align="start">
