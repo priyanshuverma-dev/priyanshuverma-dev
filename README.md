@@ -1,7 +1,7 @@
 ### <div align="start">I'm Priyanshu, a full-time student free-time developer 👨‍💻 🚀</div>  
 
 <br/>  
-<a href="https://app.daily.dev/priyanshuverma"><img src="https://api.daily.dev/devcards/08bd432628394e08ba7452ebd070dd87.png?r=cjm" width="400" alt="Priyanshu Verma's Dev Card"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6497e898d99c9d673193e384?variant=dark" alt="roadmap.sh"/></a>
 
 <br/>
 
