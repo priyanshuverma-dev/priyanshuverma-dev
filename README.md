@@ -1,8 +1,5 @@
 ### <div align="start">I'm Priyanshu, a full-time student free-time developer 👨‍💻 🚀</div>  
 
-<br/>  
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6497e898d99c9d673193e384?variant=dark" alt="roadmap.sh"/></a>
-
 <br/>
 
 ## Connect with me  
