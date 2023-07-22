@@ -42,3 +42,5 @@
 <img src="https://komarev.com/ghpvc/?username=codebyps&&style=flat-rounded" align="center" />
 </div>  
 <br/>  
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4NG60S)
