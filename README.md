@@ -18,7 +18,7 @@
 
 
 ## Github Stats  
-<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=codebyps&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
+<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=p7uverma&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
