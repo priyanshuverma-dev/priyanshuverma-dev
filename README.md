@@ -1,7 +1,6 @@
 ### <div align="start">I'm Priyanshu, a full-time student free-time developer 👨‍💻 🚀</div>  
 
 <br/>
-
 ## Connect with me  
 <div align="start">
 <a href="https://instagram.com/priyanshu.sayz" target="_blank">
@@ -15,20 +14,12 @@
 </a> 
 </div>  
 <br/>  
-
-
 ## Github Stats  
 <div align="start"><img src="https://github-readme-stats.vercel.app/api?username=p7uverma&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
 
-
-----
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=antrikshverma&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=antrikshverma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----- -->
 
 ### ✍️ Random Dev Quote
 <div align="start">
