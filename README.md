@@ -38,5 +38,5 @@
 </div>  
 <br/>  
 
-Searching a programming buddy to be mine <a href="mailto:hello@p7u.tech" target="_blank">Email</a>  or Pull request <a href="https://github.com/p7uverma/ps.git" target="_blank">Here</a> 
+Searching a programming buddy to be mine <a href="mailto:hello@p7u.tech" target="_blank">Email</a>  or Pull request <a href="https://github.com/p7uverma/ps.git" target="_blank">Here</a> (still no email)
 
