@@ -2,6 +2,11 @@
 
 <br/>
 
+[![An image of @p7uverma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/p7uverma)](https://holopin.io/@p7uverma)
+
+<br/>
+
+
 <div align="start"><img src="https://github-readme-stats.vercel.app/api?username=p7uverma&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
