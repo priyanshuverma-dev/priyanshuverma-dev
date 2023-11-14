@@ -7,7 +7,7 @@
 <br/>
 
 
-<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=p7uverma&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
+<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=priyanshuverma-dev&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
@@ -15,9 +15,8 @@
 <br/>
 
 <div align="start">
-<img src="https://komarev.com/ghpvc/?username=p7uverma&&style=flat-rounded" align="center" />
+<img src="https://komarev.com/ghpvc/?username=priyanshuverma-dev&&style=flat-rounded" align="center" />
 </div>  
 <br/>  
 
-Searching a programming buddy to be mine <a href="mailto:hello@p7u.tech" target="_blank">Email</a>  or Pull request <a href="https://github.com/p7uverma/ps.git" target="_blank">Here</a> (still no email)
 
