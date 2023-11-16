@@ -1,4 +1,6 @@
-### I'm Priyanshu, A Developer 
+
+
+# I'm Priyanshu Verma!👋
 
 <br/>
 
@@ -6,17 +8,27 @@
 
 <br/>
 
+## 🚀 About Me
+I'm an 16 year old coding enthusiast with some knowledge in App and Web Development!
 
-<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=priyanshuverma-dev&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" />
 <br/>
 
 <div align="start">
-<img src="https://komarev.com/ghpvc/?username=priyanshuverma-dev&&style=flat-rounded" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshuverma-dev&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
 </div>  
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" />
+
+<br/>
+
+<div align="start">
+
+<img src="https://komarev.com/ghpvc/?username=priyanshuverma-dev&&style=flat-rounded" align="center" />
+
+</div>  
+
 <br/>  
 
 
