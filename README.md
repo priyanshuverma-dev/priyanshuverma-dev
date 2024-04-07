@@ -23,6 +23,8 @@ I'm an 16 year old coding enthusiast with some knowledge in App and Web Developm
 
 <br/>
 
+[![priyanshuverma's GitHub | Languages Over Time](https://stats.quine.sh/priyanshuverma/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=priyanshuverma)
+
 <div align="start">
 
 <img src="https://komarev.com/ghpvc/?username=priyanshuverma-dev&&style=flat-rounded" align="center" />
