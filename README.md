@@ -33,4 +33,5 @@ I'm an 16 year old coding enthusiast with some knowledge in App and Web Developm
 
 <br/>  
 
+![](https://hit.yhype.me/github/profile?user_id=112266318)
 
