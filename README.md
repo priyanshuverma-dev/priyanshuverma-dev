@@ -2,14 +2,8 @@
 
 # I'm Priyanshu Verma!👋
 
-<br/>
-
-[![An image of @p7uverma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/p7uverma)](https://holopin.io/@p7uverma)
-
-<br/>
-
 ## 🚀 About Me
-I'm an 16 year old coding enthusiast with some knowledge in App and Web Development!
+I'm an 17 year old coding enthusiast with some knowledge in App and Web Development!
 
 <br/>
 
@@ -34,4 +28,4 @@ I'm an 16 year old coding enthusiast with some knowledge in App and Web Developm
 <br/>  
 
 ![](https://hit.yhype.me/github/profile?user_id=112266318)
-
+[![wakatime](https://wakatime.com/badge/user/a4c237dc-fe02-47f0-97b5-c25292afe1cf.svg?style=social)](https://wakatime.com/@a4c237dc-fe02-47f0-97b5-c25292afe1cf)
