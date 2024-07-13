@@ -14,9 +14,6 @@ Aspiring Software Engineer | High School Student & Self-Taught Programmer
 
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=priyanshuverma&langs_count=5&theme=dark)](https://github.com/priyanshuverma-dev)
-<br/>
-[![wakatime](https://wakatime.com/badge/user/a4c237dc-fe02-47f0-97b5-c25292afe1cf.svg?style=social)](https://wakatime.com/@a4c237dc-fe02-47f0-97b5-c25292afe1cf)
-
 
 <br/>
 <div align="start">
