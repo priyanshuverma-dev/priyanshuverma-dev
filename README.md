@@ -12,19 +12,24 @@ Aspiring Software Engineer | High School Student & Self-Taught Programmer
 * You can follow me along on [LinkedIn](https://www.linkedin.com/in/priyanshuverma04/), [Email](mailto:priyanshuverma@outlook.in).
 
 
+## Hacktoberfest 2023 Highlights
+[![An image of @p7uverma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/p7uverma)](https://holopin.io/@p7uverma)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=priyanshuverma&langs_count=5&theme=dark)](https://github.com/priyanshuverma-dev)
 
-<br/>
+## Stats
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshuverma-dev&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshuverma&langs_count=5&theme=dark&show_icons=true&hide_border=true" align="center" />
 </div>  
 
 <br/>
 
+## Fun
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" />
 
 <br/>
+
+
 
 <div align="start">
 
