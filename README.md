@@ -8,7 +8,7 @@ Aspiring Software Engineer | High School Student & Self-Taught Programmer
 * Currently in high school exploring programming as hobbie.
 * I have interest in progamming, kinematics, IOT, Physics and Space.
 * I would like to collaborate with like minded poeple.
-* Currently working on Project [@onSchooling](https://github.com/onSchooling).
+* Currently working on Project [@onSchola](https://github.com/onSchola).
 * You can follow me along on [LinkedIn](https://www.linkedin.com/in/priyanshuverma04/), [Email](mailto:priyanshuverma@outlook.in).
 
 
