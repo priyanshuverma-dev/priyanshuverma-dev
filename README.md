@@ -9,7 +9,7 @@ Aspiring Software Engineer | High School Student & Self-Taught Programmer
 * I have interest in progamming, kinematics, IOT, Physics and Space.
 * I would like to collaborate with like minded poeple.
 * Currently working on Project [@onSchola](https://github.com/onSchola).
-* You can follow me along on [LinkedIn](https://www.linkedin.com/in/priyanshuverma04/), [Email](mailto:priyanshuverma@outlook.in).
+* You can follow me along on [LinkedIn](https://www.linkedin.com/in/priyanshu-verma-dev/), [Hashnode](https://hashnode.com/@priyanshuverma), [Newsletter](https://priyanshuverma.hashnode.dev/newsletter).
 
 
 ## Hacktoberfest 2023 Highlights
