@@ -19,14 +19,13 @@ Aspiring Software Engineer | High School Student & Self-Taught Programmer
 ## Stats
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshuverma-dev&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=priyanshuverma&langs_count=5&theme=dark&show_icons=true&hide_border=true" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshuverma-dev&theme=dark&hide_border=true&" align="center" />
 </div>  
 
 <br/>
 
 ## Fun
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" align="center" />
-
 <br/>
 
 
