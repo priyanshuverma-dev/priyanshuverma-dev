@@ -1,7 +1,7 @@
 
 
 # I'm Priyanshu Verma!👋
-Aspiring Software Engineer | High School Student & Self-Taught Programmer
+Aspiring Technologist & Self-Taught Programmer
 
 ## 🚀 About Me
 * I'm an 17 year old coding enthusiast with some knowledge in App and Web Development!
@@ -18,9 +18,11 @@ Aspiring Software Engineer | High School Student & Self-Taught Programmer
 
 ## Stats
 <div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuverma-dev&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshuverma-dev&theme=dark&hide_border=true&" align="center" />
 </div>  
+
+[![priyanshuverma's GitHub | Stats](https://stats.quira.sh/priyanshuverma/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=priyanshuverma)
+
 
 <br/>
 
