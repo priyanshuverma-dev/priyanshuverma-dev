@@ -35,6 +35,7 @@ Aspiring Technologist & Self-Taught Programmer
 <div align="start">
 
 <img src="https://komarev.com/ghpvc/?username=priyanshuverma-dev&&style=flat-rounded" align="center" />
+<img src="https://wakatime.com/badge/user/a4c237dc-fe02-47f0-97b5-c25292afe1cf.svg" align="center" />
 
 </div>  
 
