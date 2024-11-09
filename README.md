@@ -61,7 +61,7 @@ Technologist & Open-source Programmer
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> Coding Streak
 <div align="start">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=priyanshuverma-dev&theme=dark&hide_border=true&" align="center" />
+  <img src="https://github-readme-streak-stats-wheat.vercel.app?user=priyanshuverma-dev&theme=dark&hide_border=true&" align="center" />
 </div>  
 <div align="start">
 <img src="https://komarev.com/ghpvc/?username=priyanshuverma-dev&&style=flat-rounded" align="center" />
