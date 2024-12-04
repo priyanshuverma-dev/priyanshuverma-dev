@@ -9,7 +9,7 @@
 - Always open to **collaborating** with like-minded people 🤝.
 - Currently working on the project **[@onSchola](https://github.com/onSchola)** 🎯.
 - I'm also managing the **[KeptCodes](https://github.com/KeptCodes)** organization, where I host and develop my personal and side projects 🚀.
-- Follow me on [LinkedIn](https://www.linkedin.com/in/priyanshu-verma-dev/), [Hashnode](https://hashnode.com/@priyanshuverma), or my [Newsletter](https://priyanshuverma.hashnode.dev/newsletter) 📬.
+- Follow me on [LinkedIn](https://www.linkedin.com/in/priyanshu-verma-dev/), [X](https://x.com/pvdev), or my [Blogs](https://priyanshuverma-dev.github.io/blogs/) 📝.
 
 
 ---
