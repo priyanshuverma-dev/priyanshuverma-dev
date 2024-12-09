@@ -7,7 +7,6 @@
 - Currently in high school and exploring programming as a hobby 🎓.
 - Passionate about **programming**, **kinematics**, **IoT**, **Physics**, and **Space** 🌌.
 - Always open to **collaborating** with like-minded people 🤝.
-- Currently working on the project **[@onSchola](https://github.com/onSchola)** 🎯.
 - I'm also managing the **[KeptCodes](https://github.com/KeptCodes)** organization, where I host and develop my personal and side projects 🚀.
 - Follow me on [LinkedIn](https://www.linkedin.com/in/priyanshu-verma-dev/), [X](https://x.com/pvdev), or my [Blogs](https://priyanshuverma-dev.github.io/blogs/) 📝.
 
