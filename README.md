@@ -3,8 +3,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> About Me
 
-- I’m a passionate **App and Web Developer** with a strong interest in **programming**, **kinematics**, **IoT**, **Physics**, and **Space** 🌌.
-- I am the founder and lead developer of the **[DIY Builds](https://github.com/DIYBuilds)** organization, where I host and develop a variety of personal and open-source projects 🚀.
+- I’m passionate about understanding **how machines work perfectly** with a strong interest in **programming**, **mechanics**, and **physics**. 🌌.
+- I am the founder and lead developer of the **[DIYBuilds](https://github.com/DIYBuilds)** organization, where I host and develop a variety of personal and open-source projects 🚀.
 - I’m always open to **collaborating** with like-minded individuals to create impactful solutions 🤝.
 - You can connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshu-verma-dev/), [X](https://x.com/pvdev), or read my [Blogs](https://priyanshuverma-dev.github.io/blogs/) 📝.
 
