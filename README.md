@@ -17,7 +17,7 @@ I'm Priyanshu Verma - I create—code, games, videos, music, and stories. Indie 
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats-wheat.vercel.app?user=priyanshupz&theme=dark&hide_border=true&"  />
+      <img src="https://streak-stats.demolab.com?user=priyanshupz&theme=dark&hide_border=true&"  />
     </td>
     <td>
      <a href="https://quira.sh?utm_source=widgets&utm_campaign=priyanshuverma">
